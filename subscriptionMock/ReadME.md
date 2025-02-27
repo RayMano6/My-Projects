@@ -1,4 +1,4 @@
-Here I implemented a siple subscription mock application, where a user can hold a database of many
+Here I implemented a simple subscription mock application, where a user can hold a database of many
 entertainment subscriptions. They can also keep track of their upcoming payments, and remove
 subscriptions that they no longer have.
 Each subscription has a start date where if a user enters subscriptions initially, they will 
