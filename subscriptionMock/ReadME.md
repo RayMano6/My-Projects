@@ -5,3 +5,5 @@ Each subscription has a start date where if a user enters subscriptions initiall
 add the start date as well. If the user adds any more subscripions moving forward, 
 The program will compute the start date. 
 An option to cancel a subscription is available, which creates an end date.
+
+- Differnt parts of the code are commented out for testin purposes.
