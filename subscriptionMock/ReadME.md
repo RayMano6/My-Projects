@@ -6,4 +6,4 @@ add the start date as well. If the user adds any more subscripions moving forwar
 The program will compute the start date. 
 An option to cancel a subscription is available, which creates an end date.
 
-- Differnt parts of the code are commented out for testin purposes.
+- Different parts of the code are commented out for testing purposes.
